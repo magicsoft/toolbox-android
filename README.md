@@ -1,6 +1,8 @@
 # Device Keeper
 
-**Download APK (v3.3.5):** [toolbox-3.3.5-google-release.apk](https://github.com/magicsoft/toolbox-android/raw/main/dist/toolbox-3.3.5-google-release.apk)
+**固定下载地址：** [https://github.com/magicsoft/toolbox-android/blob/main/dist/toolbox-release.apk](https://github.com/magicsoft/toolbox-android/blob/main/dist/toolbox-release.apk)
+
+后续每个版本都覆盖这一个文件，下载链接不变。
 
 Sideload APK only. This repository does not host source code.
 
@@ -11,7 +13,8 @@ Sideload APK only. This repository does not host source code.
 Android utility app with a built-in **free VPN**. Import YAML VPN configs, manage nodes and rules, and keep everyday phone tools in one place.
 
 **Package:** `zzy.cpucooler.google`  
-**File:** `toolbox-3.3.5-google-release.apk`  
+**File:** `toolbox-release.apk`  
+**Download:** https://github.com/magicsoft/toolbox-android/blob/main/dist/toolbox-release.apk  
 **SHA256:** `fa1f10c1884d333de040a11d273444c7f5e2363781e997446ad8b9231024787f`  
 **Checksum:** [dist/SHA256SUMS.txt](dist/SHA256SUMS.txt)
 
@@ -43,8 +46,8 @@ You can import your own `config.yaml` via **Profiles → New / Import**, or past
 
 ## Install
 
-1. Download [toolbox-3.3.5-google-release.apk](https://github.com/magicsoft/toolbox-android/raw/main/dist/toolbox-3.3.5-google-release.apk)
-2. Open the file and install
+1. Open [toolbox-release.apk](https://github.com/magicsoft/toolbox-android/blob/main/dist/toolbox-release.apk) and click Download
+2. Install the file
 3. Optional: [Obtainium](https://github.com/ImranR98/Obtainium/releases) → add `https://github.com/magicsoft/toolbox-android`
 
 This APK **cannot** overwrite the Play Store install (different signing key). Keep only one install channel.
@@ -56,7 +59,8 @@ This APK **cannot** overwrite the Play Store install (different signing key). Ke
 内置 **免费 VPN**。支持导入 YAML 配置文件、规则分流，并附带常用手机工具。
 
 **包名：** `zzy.cpucooler.google`  
-**文件：** `toolbox-3.3.5-google-release.apk`  
+**文件：** `toolbox-release.apk`  
+**下载：** https://github.com/magicsoft/toolbox-android/blob/main/dist/toolbox-release.apk  
 **SHA256：** `fa1f10c1884d333de040a11d273444c7f5e2363781e997446ad8b9231024787f`  
 **校验：** [dist/SHA256SUMS.txt](dist/SHA256SUMS.txt)
 
@@ -88,8 +92,8 @@ This APK **cannot** overwrite the Play Store install (different signing key). Ke
 
 ## 安装
 
-1. 下载 [toolbox-3.3.5-google-release.apk](https://github.com/magicsoft/toolbox-android/raw/main/dist/toolbox-3.3.5-google-release.apk)
-2. 打开文件安装
+1. 打开 [toolbox-release.apk](https://github.com/magicsoft/toolbox-android/blob/main/dist/toolbox-release.apk)，点 Download
+2. 安装下载的文件
 3. 如需自动更新，用 [Obtainium](https://github.com/ImranR98/Obtainium/releases) 添加 `https://github.com/magicsoft/toolbox-android`
 
 本 APK **不能**覆盖 Play 商店已安装版本（签名不同）。请只保留一种安装来源。

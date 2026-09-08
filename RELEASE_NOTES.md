@@ -3,7 +3,8 @@
 Android utility app with a built-in **free VPN**. Import YAML VPN configs, manage nodes and rules, and keep everyday phone tools in one place.
 
 **Package:** `zzy.cpucooler.google`  
-**File:** `toolbox-3.3.5-google-release.apk`  
+**File:** `toolbox-release.apk`  
+**Download:** https://github.com/magicsoft/toolbox-android/blob/main/dist/toolbox-release.apk  
 **SHA256:** `fa1f10c1884d333de040a11d273444c7f5e2363781e997446ad8b9231024787f`
 
 ## VPN (main)
@@ -28,7 +29,8 @@ This APK cannot overwrite the Play Store install (different signing key).
 内置 **免费 VPN**。支持导入 YAML 配置文件、规则分流，并附带常用工具。
 
 **包名：** `zzy.cpucooler.google`  
-**文件：** `toolbox-3.3.5-google-release.apk`  
+**文件：** `toolbox-release.apk`  
+**下载：** https://github.com/magicsoft/toolbox-android/blob/main/dist/toolbox-release.apk  
 **SHA256：** `fa1f10c1884d333de040a11d273444c7f5e2363781e997446ad8b9231024787f`
 
 ## VPN（重点）

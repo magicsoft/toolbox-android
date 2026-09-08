@@ -1,22 +1,24 @@
 # Device Keeper
 
-**固定下载地址：** [https://github.com/magicsoft/toolbox-android/blob/main/dist/toolbox-release.apk](https://github.com/magicsoft/toolbox-android/blob/main/dist/toolbox-release.apk)
+**固定下载地址：** [https://github.com/magicsoft/toolbox-android/blob/main/dist/toolbox-release.apk](https://github.com/magicsoft/toolbox-android/blob/main/dist/toolbox-release.apk)  
+**直接下载：** [https://github.com/magicsoft/toolbox-android/releases/latest/download/toolbox-release.apk](https://github.com/magicsoft/toolbox-android/releases/latest/download/toolbox-release.apk)
 
-后续每个版本都覆盖这一个文件，下载链接不变。
+后续每个版本都覆盖这两个地址，下载链接不变。
 
 Sideload APK only. This repository does not host source code.
 
 ---
 
-# Device Keeper 3.3.6
+# Device Keeper 3.3.7
 
 Android utility app with a built-in **free VPN**. Import YAML VPN configs, manage nodes and rules, and keep everyday phone tools in one place.
 
 **Package:** `zzy.cpucooler.google`  
-**Version:** 3.3.6 (32113)  
+**Version:** 3.3.7 (32115)  
 **File:** `toolbox-release.apk`  
-**Download:** https://github.com/magicsoft/toolbox-android/blob/main/dist/toolbox-release.apk  
-**SHA256:** `a326ffe628740506efa928c98b627a4362d4afb27ac1a413228b8e36c8c2b8ab`  
+**Download:** https://github.com/magicsoft/toolbox-android/releases/latest/download/toolbox-release.apk  
+**Page:** https://github.com/magicsoft/toolbox-android/blob/main/dist/toolbox-release.apk  
+**SHA256:** `4f3607cd709d647b1388f83d291c0376344db05b83b277dcbe7a45d01fcb0e7a`  
 **Checksum:** [dist/SHA256SUMS.txt](dist/SHA256SUMS.txt)
 
 ## VPN (main)
@@ -47,7 +49,7 @@ You can import your own `config.yaml` via **Profiles → New / Import**, or past
 
 ## Install
 
-1. Open [toolbox-release.apk](https://github.com/magicsoft/toolbox-android/blob/main/dist/toolbox-release.apk) and click Download
+1. Download [toolbox-release.apk](https://github.com/magicsoft/toolbox-android/releases/latest/download/toolbox-release.apk)
 2. Install the file
 3. Optional: [Obtainium](https://github.com/ImranR98/Obtainium/releases) → add `https://github.com/magicsoft/toolbox-android`
 
@@ -55,15 +57,16 @@ This APK **cannot** overwrite the Play Store install (different signing key). Ke
 
 ---
 
-# 设备管家 3.3.6
+# 设备管家 3.3.7
 
 内置 **免费 VPN**。支持导入 YAML 配置文件、规则分流，并附带常用手机工具。
 
 **包名：** `zzy.cpucooler.google`  
-**版本：** 3.3.6（32113）  
+**版本：** 3.3.7（32115）  
 **文件：** `toolbox-release.apk`  
-**下载：** https://github.com/magicsoft/toolbox-android/blob/main/dist/toolbox-release.apk  
-**SHA256：** `a326ffe628740506efa928c98b627a4362d4afb27ac1a413228b8e36c8c2b8ab`  
+**下载：** https://github.com/magicsoft/toolbox-android/releases/latest/download/toolbox-release.apk  
+**页面：** https://github.com/magicsoft/toolbox-android/blob/main/dist/toolbox-release.apk  
+**SHA256：** `4f3607cd709d647b1388f83d291c0376344db05b83b277dcbe7a45d01fcb0e7a`  
 **校验：** [dist/SHA256SUMS.txt](dist/SHA256SUMS.txt)
 
 ## VPN（重点）
@@ -94,7 +97,7 @@ This APK **cannot** overwrite the Play Store install (different signing key). Ke
 
 ## 安装
 
-1. 打开 [toolbox-release.apk](https://github.com/magicsoft/toolbox-android/blob/main/dist/toolbox-release.apk)，点 Download
+1. 下载 [toolbox-release.apk](https://github.com/magicsoft/toolbox-android/releases/latest/download/toolbox-release.apk)
 2. 安装下载的文件
 3. 如需自动更新，用 [Obtainium](https://github.com/ImranR98/Obtainium/releases) 添加 `https://github.com/magicsoft/toolbox-android`
 

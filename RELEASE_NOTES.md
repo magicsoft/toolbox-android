@@ -6,7 +6,7 @@ Android utility app with a built-in **free VPN**. Import YAML VPN configs, manag
 **Version:** 3.3.9 (32117)  
 **File:** `toolbox-release.apk`  
 **Download:** https://github.com/magicsoft/toolbox-android/releases/latest/download/toolbox-release.apk  
-**SHA256:** `7053b54af82d402328aaca1aec402d8ce90ada9386e70752b10416235d820778`
+**SHA256:** `7d4c0297e9323f28429b3fdcbf57cdda3c4cbb14683266a7c7d71e5a9261ec41`
 
 ## VPN (main)
 
@@ -33,7 +33,7 @@ This APK cannot overwrite the Play Store install (different signing key).
 **版本：** 3.3.9（32117）  
 **文件：** `toolbox-release.apk`  
 **下载：** https://github.com/magicsoft/toolbox-android/releases/latest/download/toolbox-release.apk  
-**SHA256：** `7053b54af82d402328aaca1aec402d8ce90ada9386e70752b10416235d820778`
+**SHA256：** `7d4c0297e9323f28429b3fdcbf57cdda3c4cbb14683266a7c7d71e5a9261ec41`
 
 ## VPN（重点）
 

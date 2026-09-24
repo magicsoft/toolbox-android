@@ -14,11 +14,11 @@ Sideload APK only. This repository does not host source code.
 Android utility app with a built-in **free VPN**. Import YAML VPN configs, manage nodes and rules, and keep everyday phone tools in one place.
 
 **Package:** `zzy.cpucooler.google`  
-**Version:** 3.5.7 (32128)  
+**Version:** 3.5.7 (32129)  
 **File:** `toolbox-release.apk`  
 **Download:** https://github.com/magicsoft/toolbox-android/releases/latest/download/toolbox-release.apk  
 **Page:** https://github.com/magicsoft/toolbox-android/blob/main/dist/toolbox-release.apk  
-**SHA256:** `1dc9462a20701754bc2d343683abe8dc4804d094115cd624e689d94191ae2096`  
+**SHA256:** `36999d1b70836f67c9cd25552cc1d3e1d1a933b75184cf248d141123de3e4801`  
 **Checksum:** [dist/SHA256SUMS.txt](dist/SHA256SUMS.txt)
 
 ## VPN (main)
@@ -62,11 +62,11 @@ This APK **cannot** overwrite the Play Store install (different signing key). Ke
 内置 **免费 VPN**。支持导入 YAML 配置文件、规则分流，并附带常用手机工具。
 
 **包名：** `zzy.cpucooler.google`  
-**版本：** 3.5.7（32128）  
+**版本：** 3.5.7（32129）  
 **文件：** `toolbox-release.apk`  
 **下载：** https://github.com/magicsoft/toolbox-android/releases/latest/download/toolbox-release.apk  
 **页面：** https://github.com/magicsoft/toolbox-android/blob/main/dist/toolbox-release.apk  
-**SHA256：** `1dc9462a20701754bc2d343683abe8dc4804d094115cd624e689d94191ae2096`  
+**SHA256：** `36999d1b70836f67c9cd25552cc1d3e1d1a933b75184cf248d141123de3e4801`  
 **校验：** [dist/SHA256SUMS.txt](dist/SHA256SUMS.txt)
 
 ## VPN（重点）

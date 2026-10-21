@@ -9,16 +9,16 @@ Sideload APK only. This repository does not host source code.
 
 ---
 
-# Device Keeper 3.7.5
+# Device Keeper 3.8.2
 
 Android utility app with a built-in **free VPN**. Import YAML VPN configs, manage nodes and rules, and keep everyday phone tools in one place.
 
 **Package:** `zzy.cpucooler.google`  
-**Version:** 3.7.5 (32148)  
+**Version:** 3.8.2 (32155)  
 **File:** `toolbox-release.apk`  
 **Download:** https://github.com/magicsoft/toolbox-android/releases/latest/download/toolbox-release.apk  
 **Page:** https://github.com/magicsoft/toolbox-android/blob/main/dist/toolbox-release.apk  
-**SHA256:** `bc14f7b116a0348985ea06fee4c5bddd38d04604ee2874faccad328ee7eb2bb2`  
+**SHA256:** `4259d00bc235196bad6ab65cbb5a0bf33d762fc25bc0b103d91e3e529de6cafa`  
 **Checksum:** [dist/SHA256SUMS.txt](dist/SHA256SUMS.txt)
 
 ## VPN (main)
@@ -57,16 +57,16 @@ This APK **cannot** overwrite the Play Store install (different signing key). Ke
 
 ---
 
-# 设备管家 3.7.5
+# 设备管家 3.8.2
 
 内置 **免费 VPN**。支持导入 YAML 配置文件、规则分流，并附带常用手机工具。
 
 **包名：** `zzy.cpucooler.google`  
-**版本：** 3.7.5（32148）  
+**版本：** 3.8.2（32155）  
 **文件：** `toolbox-release.apk`  
 **下载：** https://github.com/magicsoft/toolbox-android/releases/latest/download/toolbox-release.apk  
 **页面：** https://github.com/magicsoft/toolbox-android/blob/main/dist/toolbox-release.apk  
-**SHA256：** `bc14f7b116a0348985ea06fee4c5bddd38d04604ee2874faccad328ee7eb2bb2`  
+**SHA256：** `4259d00bc235196bad6ab65cbb5a0bf33d762fc25bc0b103d91e3e529de6cafa`  
 **校验：** [dist/SHA256SUMS.txt](dist/SHA256SUMS.txt)
 
 ## VPN（重点）

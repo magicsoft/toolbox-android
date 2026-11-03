@@ -1,12 +1,11 @@
-# Device Keeper 3.9.4
+# Phone Master 4.0.1
 
 Android utility app with a built-in **free VPN**. Import YAML VPN configs, manage nodes and rules, and keep everyday phone tools in one place.
 
 **Package:** `zzy.cpucooler.google`  
-**Version:** 3.9.4 (32167)  
+**Version:** 4.0.1 (32174)  
 **File:** `toolbox-release.apk`  
 **Download:** https://github.com/magicsoft/toolbox-android/releases/latest/download/toolbox-release.apk  
-**SHA256:** `4ec816625b556411089d8e77e089c10737c30febf29d087d676009cbb82b71f9`
 
 ## VPN (main)
 
@@ -15,37 +14,34 @@ Android utility app with a built-in **free VPN**. Import YAML VPN configs, manag
 - Add a profile from a subscription / config URL
 - Switch among multiple profiles
 - Nodes, groups, and rules in the YAML
-- Optional daily auto-update of bundled nodes
 
 ## Other tools
 
-- Device info, QR, PDF/image tools, wallpapers, IPTV helper
+- Device monitors, QR / PDF / image tools, wallpapers, and everyday utilities
 
 This APK cannot overwrite the Play Store install (different signing key).
 
 ---
 
-# 设备管家 3.9.4
+# Phone Master / 极速工具箱 4.0.1
 
 内置 **免费 VPN**。支持导入 YAML 配置文件、规则分流，并附带常用工具。
 
 **包名：** `zzy.cpucooler.google`  
-**版本：** 3.9.4（32167）  
+**版本：** 4.0.1（32174）  
 **文件：** `toolbox-release.apk`  
 **下载：** https://github.com/magicsoft/toolbox-android/releases/latest/download/toolbox-release.apk  
-**SHA256：** `4ec816625b556411089d8e77e089c10737c30febf29d087d676009cbb82b71f9`
 
 ## VPN（重点）
 
-- 一键开启 / 关闭系统 VPN（免费的vpn）
+- 一键开启 / 关闭系统 VPN
 - 从本地导入 YAML 配置文件（`.yaml` / `.yml`）
 - 用订阅地址 / 配置 URL 添加配置
 - 多配置文件切换
 - 支持 YAML 中的节点、策略组、规则
-- 可选每天自动更新内置节点
 
 ## 其他工具
 
-- 设备信息、二维码、PDF/图片、壁纸、IPTV 等
+- 设备状态、二维码、PDF/图片、壁纸等日常工具
 
 本 APK 不能覆盖 Play 商店已安装版本（签名不同）。
